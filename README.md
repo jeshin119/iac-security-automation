@@ -6,8 +6,7 @@
 > * **주요 역할:** **PM, Ansible 환경 구축 및 구현, RAG 인프라 구축**
 > * **사용 기술:** Ansible, Python, LangChain, ChromaDB, OpenAI GPT-4, Trivy, Semgrep, MITRE ATTACK, Streamlit
 > * **git hub:** https://github.com/kcs2183/Automate-server-vulnerability-scanning/tree/main
-> * **발표 자료:** https://docs.google.com/presentation/d/1Y68Nl7-sIHdGcVJPiSEuLomG6lRROikoTd2ujOXB9bc/edit?usp=sharing
-
+> * **발표 자료:** https://docs.google.com/presentation/d/1guGEiFiD6iUZXv7AJaCWldETL0Vs8jj9YMCwJw9PpRA/edit?usp=sharing
 ---
 
 ## 1. 프로젝트 배경 및 문제 정의
